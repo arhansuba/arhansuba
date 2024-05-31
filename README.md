@@ -2,7 +2,7 @@
 
 👀 My interests are AI, Blockchain, and Finance. 
 
-🌱 Currently, I'm pursuing advanced studies in Llama 3 and honing my skills in Solidity through Cyfrin Updraft. 
+🌱 Currently, I'm pursuing advanced studies in Llama 3 and honing my skills in Solidity . 
 
 💻 Proficient in Python, Solidity, JavaScript, and C#, and equipped with foundational knowledge of HTML, CSS, and JavaScript, I thrive on solving complex problems and crafting innovative solutions., I am adept at developing robust and scalable software solutions.
 
