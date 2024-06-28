@@ -1,16 +1,32 @@
-👋 Hello, I’m Arhan Subaşı, an ambitious engineering student.
+# 👋 Hello, I’m Arhan Subaşı
 
-👀 My interests are AI, Blockchain, and Finance. 
+I am an ambitious engineering student with a keen interest in AI, Blockchain, and Finance.
 
-🌱 Currently, I'm pursuing advanced studies in Llama 3 and honing my skills in Solidity . 
+## 🏆 Achievements
+- Winner of the Giza Hackathon
+  - [Giza Tech Announcement](https://x.com/gizatechxyz/status/1806732164358193566)
+  - [Encode Club Announcement](https://x.com/encodeclub/status/1803797494431711643)
+  - [Winning Project Repository](https://github.com/arhansuba/koi-strategy-agent)
 
-💻 Proficient in Python, Solidity, JavaScript, and C#, and equipped with foundational knowledge of HTML, CSS, and JavaScript, I thrive on solving complex problems and crafting innovative solutions., I am adept at developing robust and scalable software solutions.
+## 🌱 Current Focus
+- Pursuing advanced studies in Llama 3
+- Honing skills in Solidity
 
-💼 Actively seeking opportunities to collaborate on projects where I can leverage my expertise.
+## 💻 Technical Skills
+- **Languages**: Python, Solidity, JavaScript, C#
+- **Web Technologies**: HTML, CSS, JavaScript
 
-📫 Let's connect on LinkedIn: https://www.linkedin.com/in/arhan-suba%C5%9F%C4%B1-084a60254/
+I thrive on solving complex problems and crafting innovative solutions, developing robust and scalable software.
 
-⚡ I am eagerly open to any positions that align with my skills and interests in AI, Blockchain, and Finance. Let's build the future together.
+## 💼 Collaboration
+I am actively seeking opportunities to collaborate on projects where I can leverage my expertise.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/arhan-suba%C5%9F%C4%B1-084a60254/)
+
+## ⚡ Opportunities
+I am open to any positions that align with my skills and interests in AI, Blockchain, and Finance. Let's build the future together.
+
 <!---
 arhansuba/arhansuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
