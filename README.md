@@ -6,7 +6,7 @@ I am an ambitious engineering student with a keen interest in AI, Blockchain, an
 - Winner of the Giza Hackathon
   - [Giza Tech Announcement](https://x.com/gizatechxyz/status/1806732164358193566)
   - [Encode Club Announcement](https://x.com/encodeclub/status/1803797494431711643)
-  - [Youtube]https://www.youtube.com/watch?v=9lnFQYsUCqc
+  - [Youtube](https://www.youtube.com/watch?v=9lnFQYsUCqc)
   - [Winning Project Repository](https://github.com/arhansuba/koi-strategy-agent)
 
 
