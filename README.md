@@ -15,7 +15,7 @@ I am an ambitious engineering student with a keen interest in AI, Blockchain, an
 
   - [Encode Club Announcement](https://x.com/encodeclub/status/1813944571740782842?t=IwH7KSt79s7uXUPYM_5JjA&s=19)
 
-  -[Youtube](https://www.youtube.com/watch?v=ExV4N2zRYS0)
+  - [Youtube](https://www.youtube.com/watch?v=ExV4N2zRYS0)
 
 -[Winner of Versatus path bounty] (https://github.com/arhansuba/decentralized-voting)
 
