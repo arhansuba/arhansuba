@@ -11,7 +11,7 @@ I am an ambitious engineering student with a keen interest in AI, Blockchain, an
 
 
 
--[Winner of EigenLayer Hackathon]
+- Winner of EigenLayer Hackathon
 
   - [Encode Club Announcement](https://x.com/encodeclub/status/1813944571740782842?t=IwH7KSt79s7uXUPYM_5JjA&s=19)
 
