@@ -23,12 +23,17 @@ I am an ambitious engineering student with a keen interest in AI, Blockchain, an
 
 - [Honourable Mention of Movement Labs bounty](https://github.com/arhansuba/lottery-project)
 
+- Winner of the BNB Chain 2024 Q3 Hackathon
+- Winner of the Solana Superteam Hackathon
+- Winner of Glitter Protocol Ideathon
+- Honourable Mention of Coinstore Labs - ICP Web 3.0 Collision Hackathon (ICP Chain Fusion)
+
 ## 🌱 Current Focus
-- Pursuing advanced studies in Llama 3
+- Pursuing advanced studies in Aı
 - Honing skills in Solidity
 
 ## 💻 Technical Skills
-- **Languages**: Python, Solidity, JavaScript, C#
+- **Languages**: Python, Solidity, JavaScript, Rust
 - **Web Technologies**: HTML, CSS, JavaScript
 
 I thrive on solving complex problems and crafting innovative solutions, developing robust and scalable software.
