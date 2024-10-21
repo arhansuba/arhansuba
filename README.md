@@ -3,6 +3,9 @@
 I am an ambitious engineering student with a keen interest in AI, Blockchain, and Finance.
 
 ## 🏆 Achievements
+- Earned a grant from Solana Superteam Turkey.
+-  https://www.cipherzero.xyz/
+-  https://x.com/cipherzerop
 - Winner of the Giza Hackathon
   - [Giza Tech Announcement](https://x.com/gizatechxyz/status/1806732164358193566)
   - [Encode Club Announcement](https://x.com/encodeclub/status/1803797494431711643)
