@@ -12,7 +12,7 @@ I am an ambitious engineering student with a keen interest in AI, Blockchain, an
   - [Youtube](https://www.youtube.com/watch?v=9lnFQYsUCqc)
   - [Winning Project Repository](https://github.com/arhansuba/koi-strategy-agent)
 
-
+- Winner of Privacy for Web3 Hackathon
 
 - Winner of EigenLayer Hackathon
 
