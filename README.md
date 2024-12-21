@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Arhan Subaşı
 
-I am an ambitious engineering student with a keen interest in AI, Blockchain, and Finance.
+I am an ambitious engineering student with a keen interest in AI and Blockchain
 
 ## 🏆 Achievements
 - Earned a grant from Solana Superteam Turkey.
@@ -37,7 +37,6 @@ I am an ambitious engineering student with a keen interest in AI, Blockchain, an
 
 ## 💻 Technical Skills
 - **Languages**: Python, Solidity, JavaScript, Rust
-- **Web Technologies**: HTML, CSS, JavaScript
 
 I thrive on solving complex problems and crafting innovative solutions, developing robust and scalable software.
 
