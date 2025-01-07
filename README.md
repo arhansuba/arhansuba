@@ -8,8 +8,7 @@ I am an ambitious engineering student with a keen interest in AI and Blockchain
 -  https://x.com/cipherzerop
 - Winner of the Giza Hackathon
   - [Giza Tech Announcement](https://x.com/gizatechxyz/status/1806732164358193566)
-  - [Encode Club Announcement](https://x.com/encodeclub/status/1803797494431711643)
-  - [Youtube](https://www.youtube.com/watch?v=9lnFQYsUCqc)
+  - [Encode Club Announcement](https://x.com/encodeclub/status/1803797494431711643
   - [Winning Project Repository](https://github.com/arhansuba/koi-strategy-agent)
 
 - Winner of Privacy for Web3 Hackathon
